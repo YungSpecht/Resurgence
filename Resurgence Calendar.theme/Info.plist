@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple/DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PackageName</key>
+	<string>Resurgence</string>
+		<key>CalendarIconDateSettings</key>
+		<dict>
+				<key>FontSize</key>
+				<integer>27</integer>
+				<key>ShadowBlurRadius</key>
+				<integer>0</integer>
+				<key>ShadowColor</key>
+				<string>#f2625b</string>
+				<key>ShadowXoffset</key>
+				<real>0</real>
+				<key>ShadowYoffset</key>
+				<real>0</real>
+				<key>TextColor</key>
+				<string> #2a2b2b </string>
+				<key>TextYoffset</key>
+				<real>4</real>
+		</dict>
+		<key>CalendarIconDaySettings</key>
+		<dict>
+				<key>FontSize</key>
+				<integer>0</integer>
+				<key>ShadowBlurRadius</key>
+				<integer>0</integer>
+				<key>ShadowColor</key>
+				<string>#f2625b</string>
+				<key>ShadowXoffset</key>
+				<real>0.0</real>
+				<key>ShadowYoffset</key>
+				<real>0.0</real>
+				<key>TextColor</key>
+				<string>#025ca5</string>
+		</dict>
+</dict>
+</plist>
