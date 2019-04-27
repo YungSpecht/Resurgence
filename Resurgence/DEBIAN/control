@@ -1,0 +1,10 @@
+Package: com.rango.resurgence
+Name: Resurgence
+Depends: com.anemonetheming.anemone
+Version: 0.1
+Architecture: iphoneos-arm
+Description: A retake on the modern IOS!
+Maintainer: Rango
+Author: Yung Specht
+Section: Themes
+Depiction: https://yungspecht.github.io/depictions/?p=com.rango.resurgence
